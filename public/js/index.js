@@ -1,0 +1,5 @@
+"use strict";
+
+var channel = new Kongapay();
+channel.init();
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL2Zyb250LXRzL2luZGV4LnRzIl0sIm5hbWVzIjpbImNoYW5uZWwiLCJLb25nYXBheSIsImluaXQiXSwibWFwcGluZ3MiOiI7O0FBQUEsSUFBSUEsT0FBTyxHQUFHLElBQUlDLFFBQUosRUFBZDtBQUNBRCxPQUFPLENBQUNFLElBQVIiLCJzb3VyY2VzQ29udGVudCI6WyJsZXQgY2hhbm5lbCA9IG5ldyBLb25nYXBheSgpO1xuY2hhbm5lbC5pbml0KCk7Il19

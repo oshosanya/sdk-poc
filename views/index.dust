@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{title}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <div class="container">
+        <ul class="list-group">
+          <li class="list-group-item payment-channel" data-channel-name="kongapay">Kongapay</li>
+          <li class="list-group-item payment-channel" data-channel-name="transfer">Transfer</li>
+          <li class="list-group-item payment-channel" data-channel-name="card">Card</li>
+        </ul>
+        <div id="content-view"></div>
+    </div>
+    <script src="/dist/js/app.bundle.js"></script>
+  </body>
+</html>
